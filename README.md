@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzzyStars330
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python, SQL
+- 🌱 I’m currently learning python, SQL, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... eyes330@yahoo.co.uk
 
