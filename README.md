@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IzzyStars330
+- 👋 Hi, I’m Isaac Sturtridge
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning python, SQL, javascript
 - 💞️ I’m looking to collaborate on ...
